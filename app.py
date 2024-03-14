@@ -7,6 +7,7 @@ import eggcode
 import cardWar
 import goals
 import africaCountry
+import teamGenerator
 
 list_changllenge = [
     "Generate IP Address",
@@ -16,6 +17,7 @@ list_changllenge = [
     "Cards War",
     "Goals scored by each team in World Cup",
     "Africa Countries",
+    "Team Generator",
     ]
 
 app_list = list.List(list_changllenge)
@@ -39,5 +41,7 @@ while True:
             goals.Goals()
         case '7':
             africaCountry.main()
+        case '8':
+            teamGenerator.main()
         case _:
             print("Invalid key")
