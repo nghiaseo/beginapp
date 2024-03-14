@@ -1,0 +1,21 @@
+Stage 1;13.8;Utrecht;Utrecht
+Stage 2;166;Utrecht;Zélande
+Stage 3;159.5;Anvers;Huy
+Stage 4;223.5;Seraing;Cambrai
+Stage 5;189.5;Arras Communauté Urbaine;Amiens Métropole
+Stage 6;191.5;Abbeville;Le Havre
+Stage 7;190.5;Livarot;Fougères
+Stage 8;181.5;Rennes;Mûr-de-Bretagne
+Stage 9;28;Vannes;Plumelec
+Stage 10;167;Tarbes;La Pierre-Saint-Martin
+Stage 11;188;Pau;Cauterets - Vallée de Saint-Savin
+Stage 12;195;Lannemezan;Plateau de Beille
+Stage 13;198.5;Muret;Rodez
+Stage 14;178.5;Rodez;Mende
+Stage 15;183;Mende;Valence
+Stage 16;201;Bourg-de-Péage;Gap
+Stage 17;161;Digne-les-Bains;Pra Loup
+Stage 18;186.5;Gap;Saint-Jean-de-Maurienne
+Stage 19;138;Saint-Jean-de-Maurienne;La Toussuire - Les Sybelles
+Stage 20;110.5;Modane Valfréjus;Alpe d'Huez
+Stage 21;109.5;Sèvres - Grand Paris Seine Ouest;Paris Champs-Élysées

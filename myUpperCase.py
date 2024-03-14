@@ -8,11 +8,11 @@ class Ucase:
         text = input("Enter text or Enter to back: ")
         if(text == ""):
             return
-        print(self.upper_case(text))
+        print(upper_case(text))
         print("Press any key to continue...")
         msvcrt.getch()
         
-    def upper_case(self, text):                
+def upper_case(text):                
         upperString=''
         for i in text:
             if ord(i) >= 97 and ord(i) <= 122:
