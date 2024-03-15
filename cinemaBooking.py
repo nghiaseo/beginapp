@@ -135,9 +135,9 @@ def clear_all_seats(map):
 
 
 def main():
-    # while not login():    
-    #     print('Invalid username or password')
-    #     msvcrt.getch()
+    while not login():    
+        print('Invalid username or password')
+        msvcrt.getch()
     
     map = get_map_from_file()    
     while True:    
