@@ -8,6 +8,11 @@ import cardWar
 import goals
 import africaCountry
 import teamGenerator
+import spaceMission
+import letour
+import atm
+import orderingSystem
+import cinemaBooking
 
 list_changllenge = [
     "Generate IP Address",
@@ -18,6 +23,11 @@ list_changllenge = [
     "Goals scored by each team in World Cup",
     "Africa Countries",
     "Team Generator",
+    "Space Mission",
+    "Le Tour de France",
+    "ATM Machine",
+    "Ordering System",
+    "Cinema Booking System",
     ]
 
 app_list = list.List(list_changllenge)
@@ -43,5 +53,15 @@ while True:
             africaCountry.main()
         case '8':
             teamGenerator.main()
+        case '9':
+            spaceMission.main()
+        case '10':
+            letour.main()
+        case '11':
+            atm.ATM()
+        case '12':
+            orderingSystem.main()
+        case '13':
+            cinemaBooking.main()
         case _:
             print("Invalid key")
